@@ -1,0 +1,48 @@
+2019-11-20T19:10:42.727Z - error: [gme:server:standalone:api] Parsing metadata.json at "C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\plugin\coreplugins\SimulateModelica\metadata.json", failed with error:
+SyntaxError: Unexpected token m in JSON at position 498
+    at JSON.parse (<anonymous>)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\server\api\index.js:2034:59
+    at _fulfilled (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:854:54)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:883:30
+    at Promise.promise.promiseDispatch (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:816:13)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:624:44
+    at runSingle (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:125:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+2019-11-20T19:10:58.863Z - error: [gme:server:standalone:api] Parsing metadata.json at "C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\plugin\coreplugins\SimulateModelica\metadata.json", failed with error:
+SyntaxError: Unexpected token m in JSON at position 498
+    at JSON.parse (<anonymous>)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\server\api\index.js:2034:59
+    at _fulfilled (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:854:54)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:883:30
+    at Promise.promise.promiseDispatch (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:816:13)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:624:44
+    at runSingle (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:125:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+2019-11-20T19:18:04.996Z - error: [gme:server:worker:simpleworker:pid_12676:WorkerFunctions] plugin [ModelicaCodeGenerator] failed with error message=Evaluating C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src/..\..\..\src\plugins/ModelicaCodeGenerator/ModelicaCodeGenerator.js as module "plugin/ModelicaCodeGenerator/ModelicaCodeGenerator/ModelicaCodeGenerator" failed with error: SyntaxError: Unexpected token =>, stack=Error: Evaluating C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src/..\..\..\src\plugins/ModelicaCodeGenerator/ModelicaCodeGenerator.js as module "plugin/ModelicaCodeGenerator/ModelicaCodeGenerator/ModelicaCodeGenerator" failed with error: SyntaxError: Unexpected token =>
+    at Function.req.load (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:2571:23)
+    at Object.load (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1935:21)
+    at Module.load (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1084:29)
+    at Module.fetch (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1074:66)
+    at Module.check (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1106:30)
+    at Module.enable (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1426:22)
+    at Object.enable (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1807:39)
+    at Module.<anonymous> (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1411:33)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:384:23
+    at each (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:309:31), , moduleName=plugin/ModelicaCodeGenerator/ModelicaCodeGenerator/ModelicaCodeGenerator, requireModules=[plugin/ModelicaCodeGenerator/ModelicaCodeGenerator/ModelicaCodeGenerator], fileName=C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src/..\..\..\src\plugins/ModelicaCodeGenerator/ModelicaCodeGenerator.js
+2019-11-20T19:21:42.305Z - error: [gme:server:standalone:api] Parsing metadata.json at "C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\plugin\coreplugins\SimulateModelica\metadata.json", failed with error:
+SyntaxError: Unexpected token m in JSON at position 498
+    at JSON.parse (<anonymous>)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\server\api\index.js:2034:59
+    at _fulfilled (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:854:54)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:883:30
+    at Promise.promise.promiseDispatch (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:816:13)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:624:44
+    at runSingle (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:125:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+2019-11-23T02:45:08.926Z - error: [gme:server:standalone:api] SyntaxError: Unexpected string in JSON at position 147
+2019-11-23T03:30:31.402Z - error: [gme:server:standalone:api] SyntaxError: Unexpected end of JSON input
+2019-11-23T03:31:18.284Z - error: [gme:server:standalone:api] SyntaxError: Unexpected end of JSON input
+2019-11-26T19:31:17.700Z - error: [gme:server:standalone:middleware:BlobServer:BlobBackend] readStream on close

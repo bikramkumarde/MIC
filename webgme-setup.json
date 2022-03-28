@@ -1,0 +1,39 @@
+{
+  "components": {
+    "routers": {},
+    "visualizers": {
+      "LogicGatesViz": {
+        "src": "panels/LogicGatesViz/LogicGatesVizPanel",
+        "title": "LogicGatesViz",
+        "panel": "src/visualizers/panels/LogicGatesViz",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/LogicGatesViz"
+      }
+    },
+    "plugins": {
+      "MyPythonPlugin": {
+        "src": "src/plugins/MyPythonPlugin",
+        "test": "test/plugins/MyPythonPlugin"
+      },
+      "SimulateModelica": {
+        "src": "src/plugins/SimulateModelica",
+        "test": "test/plugins/SimulateModelica"
+      },
+      "ModelicaCodeGenerator": {
+        "src": "src/plugins/ModelicaCodeGenerator",
+        "test": "test/plugins/ModelicaCodeGenerator"
+      }
+    }
+  },
+  "dependencies": {
+    "routers": {
+      "BindingsDocs": {
+        "project": "webgme-bindings",
+        "path": "node_modules/webgme-bindings/src/routers/BindingsDocs",
+        "mount": "bindings-docs"
+      }
+    },
+    "visualizers": {},
+    "plugins": {}
+  }
+}

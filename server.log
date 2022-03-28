@@ -1,0 +1,621 @@
+2019-11-13T19:41:13.858Z - info: [gme] Node version v10.16.3
+2019-11-13T19:41:13.862Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-13T19:41:13.864Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-13T19:41:14.094Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-13T19:41:14.105Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.0.5:8888  http://127.0.0.1:8888
+2019-11-13T19:41:14.106Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-13T19:41:14.285Z - warn: [gme:server:auth:gmeauth] User "guest" was not found. We will attempt to create it automatically.
+2019-11-13T19:41:14.511Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-13T19:41:15.404Z - info: [gme:server:standalone] Server is listening ...
+2019-11-14T00:50:27.964Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-14T00:50:28.014Z - info: [gme:server:standalone] Server stopped.
+2019-11-14T01:04:03.730Z - info: [gme] Node version v10.16.3
+2019-11-14T01:04:03.732Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-14T01:04:03.732Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-14T01:04:04.031Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-14T01:04:04.045Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.0.5:8888  http://127.0.0.1:8888
+2019-11-14T01:04:04.046Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-14T01:04:04.109Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-14T01:04:05.248Z - info: [gme:server:standalone] Server is listening ...
+2019-11-14T21:52:14.129Z - info: [gme] Node version v10.16.3
+2019-11-14T21:52:14.130Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-14T21:52:14.131Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-14T21:52:14.359Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-14T21:52:14.369Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://10.66.146.50:8888  http://127.0.0.1:8888
+2019-11-14T21:52:14.371Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-14T21:52:14.442Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-14T21:52:15.245Z - info: [gme:server:standalone] Server is listening ...
+2019-11-18T19:35:34.067Z - info: [gme] Node version v10.16.3
+2019-11-18T19:35:34.068Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-18T19:35:34.069Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-18T19:35:34.365Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-18T19:35:34.376Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.0.5:8888  http://127.0.0.1:8888
+2019-11-18T19:35:34.378Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-18T19:35:34.470Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-18T19:35:35.209Z - info: [gme:server:standalone] Server is listening ...
+2019-11-18T22:30:41.137Z - info: [gme] Node version v10.16.3
+2019-11-18T22:30:41.139Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-18T22:30:41.139Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-18T22:30:41.398Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-18T22:30:41.411Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://10.66.131.37:8888  http://127.0.0.1:8888
+2019-11-18T22:30:41.412Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-18T22:30:41.471Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-18T22:30:42.347Z - info: [gme:server:standalone] Server is listening ...
+2019-11-19T23:09:22.338Z - info: [gme] Node version v10.16.3
+2019-11-19T23:09:22.340Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-19T23:09:22.340Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-19T23:09:22.697Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-19T23:09:22.712Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://10.66.131.37:8888  http://127.0.0.1:8888
+2019-11-19T23:09:22.713Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-19T23:09:22.831Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-19T23:09:24.073Z - info: [gme:server:standalone] Server is listening ...
+2019-11-20T17:31:17.062Z - info: [gme] Node version v10.16.3
+2019-11-20T17:31:17.064Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-20T17:31:17.064Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-20T17:31:17.405Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-20T17:31:17.417Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://10.66.131.37:8888  http://127.0.0.1:8888
+2019-11-20T17:31:17.418Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-20T17:31:17.532Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-20T17:31:18.631Z - info: [gme:server:standalone] Server is listening ...
+2019-11-20T19:10:42.727Z - error: [gme:server:standalone:api] Parsing metadata.json at "C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\plugin\coreplugins\SimulateModelica\metadata.json", failed with error:
+SyntaxError: Unexpected token m in JSON at position 498
+    at JSON.parse (<anonymous>)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\server\api\index.js:2034:59
+    at _fulfilled (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:854:54)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:883:30
+    at Promise.promise.promiseDispatch (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:816:13)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:624:44
+    at runSingle (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:125:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+2019-11-20T19:10:54.087Z - info: [gme] Node version v10.16.3
+2019-11-20T19:10:54.089Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-20T19:10:54.089Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-20T19:10:54.316Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-20T19:10:54.325Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://10.66.131.37:8888  http://127.0.0.1:8888
+2019-11-20T19:10:54.326Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-20T19:10:54.375Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-20T19:10:55.048Z - info: [gme:server:standalone] Server is listening ...
+2019-11-20T19:10:58.863Z - error: [gme:server:standalone:api] Parsing metadata.json at "C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\plugin\coreplugins\SimulateModelica\metadata.json", failed with error:
+SyntaxError: Unexpected token m in JSON at position 498
+    at JSON.parse (<anonymous>)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\server\api\index.js:2034:59
+    at _fulfilled (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:854:54)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:883:30
+    at Promise.promise.promiseDispatch (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:816:13)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:624:44
+    at runSingle (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:125:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+2019-11-20T19:18:04.995Z - error: [gme:server:worker:simpleworker:pid_12676:WorkerFunctions] plugin [ModelicaCodeGenerator] failed with error message=Evaluating C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src/..\..\..\src\plugins/ModelicaCodeGenerator/ModelicaCodeGenerator.js as module "plugin/ModelicaCodeGenerator/ModelicaCodeGenerator/ModelicaCodeGenerator" failed with error: SyntaxError: Unexpected token =>, stack=Error: Evaluating C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src/..\..\..\src\plugins/ModelicaCodeGenerator/ModelicaCodeGenerator.js as module "plugin/ModelicaCodeGenerator/ModelicaCodeGenerator/ModelicaCodeGenerator" failed with error: SyntaxError: Unexpected token =>
+    at Function.req.load (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:2571:23)
+    at Object.load (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1935:21)
+    at Module.load (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1084:29)
+    at Module.fetch (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1074:66)
+    at Module.check (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1106:30)
+    at Module.enable (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1426:22)
+    at Object.enable (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1807:39)
+    at Module.<anonymous> (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:1411:33)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:384:23
+    at each (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\requirejs\bin\r.js:309:31), , moduleName=plugin/ModelicaCodeGenerator/ModelicaCodeGenerator/ModelicaCodeGenerator, requireModules=[plugin/ModelicaCodeGenerator/ModelicaCodeGenerator/ModelicaCodeGenerator], fileName=C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src/..\..\..\src\plugins/ModelicaCodeGenerator/ModelicaCodeGenerator.js
+2019-11-20T19:21:42.305Z - error: [gme:server:standalone:api] Parsing metadata.json at "C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\plugin\coreplugins\SimulateModelica\metadata.json", failed with error:
+SyntaxError: Unexpected token m in JSON at position 498
+    at JSON.parse (<anonymous>)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\webgme-engine\src\server\api\index.js:2034:59
+    at _fulfilled (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:854:54)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:883:30
+    at Promise.promise.promiseDispatch (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:816:13)
+    at C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:624:44
+    at runSingle (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:137:13)
+    at flush (C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\node_modules\q\q.js:125:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+2019-11-21T01:05:54.380Z - info: [gme] Node version v10.16.3
+2019-11-21T01:05:54.381Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-21T01:05:54.382Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-21T01:05:54.749Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-21T01:05:54.766Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.0.5:8888  http://127.0.0.1:8888
+2019-11-21T01:05:54.767Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-21T01:05:54.861Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-21T01:05:55.872Z - info: [gme:server:standalone] Server is listening ...
+2019-11-21T01:30:36.570Z - info: [gme] Node version v10.16.3
+2019-11-21T01:30:36.573Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-21T01:30:36.573Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-21T01:30:36.880Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-21T01:30:36.895Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.0.5:8888  http://127.0.0.1:8888
+2019-11-21T01:30:36.896Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-21T01:30:36.986Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-21T01:30:38.030Z - info: [gme:server:standalone] Server is listening ...
+2019-11-21T22:04:52.243Z - info: [gme] Node version v10.16.3
+2019-11-21T22:04:52.246Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-21T22:04:52.246Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-21T22:04:52.567Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-21T22:04:52.578Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://10.66.131.37:8888  http://127.0.0.1:8888
+2019-11-21T22:04:52.579Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-21T22:04:52.652Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-21T22:04:53.454Z - info: [gme:server:standalone] Server is listening ...
+2019-11-22T22:16:50.567Z - info: [gme] Node version v10.16.3
+2019-11-22T22:16:50.570Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-22T22:16:50.570Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-22T22:16:51.032Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-22T22:16:51.047Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-22T22:16:51.049Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-22T22:16:51.153Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-22T22:16:51.917Z - info: [gme:server:standalone] Server is listening ...
+2019-11-22T22:29:22.363Z - info: [gme] Node version v10.16.3
+2019-11-22T22:29:22.365Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-22T22:29:22.366Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-22T22:29:22.543Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-22T22:29:22.552Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-22T22:29:22.554Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-22T22:29:22.599Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-22T22:29:23.627Z - info: [gme:server:standalone] Server is listening ...
+2019-11-23T02:45:08.926Z - error: [gme:server:standalone:api] SyntaxError: Unexpected string in JSON at position 147
+2019-11-23T03:30:29.007Z - info: [gme] Node version v12.13.1
+2019-11-23T03:30:29.009Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-23T03:30:29.009Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-23T03:30:29.348Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-23T03:30:29.361Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-23T03:30:29.363Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T03:30:29.427Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T03:30:30.144Z - info: [gme:server:standalone] Server is listening ...
+2019-11-23T03:30:31.402Z - error: [gme:server:standalone:api] SyntaxError: Unexpected end of JSON input
+2019-11-23T03:31:13.077Z - info: [gme] Node version v12.13.1
+2019-11-23T03:31:13.078Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-23T03:31:13.078Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-23T03:31:13.183Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-23T03:31:13.190Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-23T03:31:13.190Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T03:31:13.216Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T03:31:13.750Z - info: [gme:server:standalone] Server is listening ...
+2019-11-23T03:31:18.284Z - error: [gme:server:standalone:api] SyntaxError: Unexpected end of JSON input
+2019-11-23T03:32:27.220Z - info: [gme] Node version v12.13.1
+2019-11-23T03:32:27.221Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-23T03:32:27.222Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-23T03:32:27.352Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-23T03:32:27.359Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-23T03:32:27.360Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T03:32:27.386Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T03:32:28.002Z - info: [gme:server:standalone] Server is listening ...
+2019-11-23T15:24:17.705Z - info: [gme] Node version v12.13.1
+2019-11-23T15:24:17.708Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-23T15:24:17.708Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-23T15:24:18.068Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-23T15:24:18.086Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-23T15:24:18.088Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T15:24:18.146Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T15:24:19.061Z - info: [gme:server:standalone] Server is listening ...
+2019-11-23T15:40:49.126Z - info: [gme] Node version v12.13.1
+2019-11-23T15:40:49.128Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-23T15:40:49.129Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-23T15:40:49.466Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-23T15:40:49.482Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-23T15:40:49.485Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T15:40:49.541Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-23T15:40:50.398Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T15:59:00.306Z - info: [gme] Node version v12.13.1
+2019-11-24T15:59:00.308Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server.log
+2019-11-24T15:59:00.309Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\server-error.log
+2019-11-24T15:59:00.729Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\CS 6388\LogicGates\blob-local-storage
+2019-11-24T15:59:00.755Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-24T15:59:00.758Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T15:59:00.863Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T15:59:01.971Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T18:55:58.736Z - info: [gme] Node version v10.16.3
+2019-11-24T18:55:58.737Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T18:55:58.738Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T18:55:58.862Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T18:55:58.869Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T18:55:58.870Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T18:55:58.899Z - warn: [gme:server:auth:gmeauth] User "guest" was not found. We will attempt to create it automatically.
+2019-11-24T18:55:59.038Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T18:55:59.408Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:27:32.772Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:27:32.779Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:27:35.012Z - info: [gme] Node version v10.16.3
+2019-11-24T19:27:35.019Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:27:35.019Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:27:35.190Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:27:35.198Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:27:35.202Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:27:35.247Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:27:35.748Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:28:46.648Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:28:46.664Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:28:48.264Z - info: [gme] Node version v10.16.3
+2019-11-24T19:28:48.265Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:28:48.270Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:28:48.419Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:28:48.427Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:28:48.429Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:28:48.475Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:28:48.970Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:28:56.918Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Work\StudentProjects\MIC-Logic-Gates\src\visualizer\bower_components\lodash\lodash.js.js: Error: ENOENT: no such file or directory, stat 'C:\Work\StudentProjects\MIC-Logic-Gates\src\visualizer\bower_components\lodash\lodash.js.js'
+2019-11-24T19:29:10.858Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:29:10.868Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:29:12.128Z - info: [gme] Node version v10.16.3
+2019-11-24T19:29:12.134Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:29:12.135Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:29:12.313Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:29:12.323Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:29:12.324Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:29:12.363Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:29:12.888Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:29:20.455Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Work\StudentProjects\MIC-Logic-Gates\src\visualizer\bower_components\lodash\lodash.js: Error: ENOENT: no such file or directory, stat 'C:\Work\StudentProjects\MIC-Logic-Gates\src\visualizer\bower_components\lodash\lodash.js'
+2019-11-24T19:32:07.101Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:32:07.107Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:32:08.918Z - info: [gme] Node version v10.16.3
+2019-11-24T19:32:08.927Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:32:08.929Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:32:09.056Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:32:09.064Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:32:09.066Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:32:09.087Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:32:09.459Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:35:03.284Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:35:03.291Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:35:04.598Z - info: [gme] Node version v10.16.3
+2019-11-24T19:35:04.606Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:35:04.616Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:35:04.741Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:35:04.750Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:35:04.751Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:35:04.783Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:35:05.140Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:36:32.893Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:36:32.911Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:39:34.463Z - info: [gme] Node version v10.16.3
+2019-11-24T19:39:34.464Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:39:34.470Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:39:34.591Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:39:34.597Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:39:34.605Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:39:34.651Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:39:35.028Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:40:20.265Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:40:20.282Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:40:21.920Z - info: [gme] Node version v10.16.3
+2019-11-24T19:40:21.922Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:40:21.929Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:40:22.048Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:40:22.054Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:40:22.062Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:40:22.102Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:40:22.463Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:41:52.054Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:41:52.068Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:41:53.184Z - info: [gme] Node version v10.16.3
+2019-11-24T19:41:53.192Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:41:53.193Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:41:53.304Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:41:53.310Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:41:53.318Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:41:53.353Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:41:53.714Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:45:42.339Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:47:35.169Z - info: [gme] Node version v10.16.3
+2019-11-24T19:47:35.180Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:47:35.184Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:47:35.308Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:47:35.315Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:47:35.323Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:47:35.367Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:47:35.726Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T19:50:10.054Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T19:50:10.064Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T19:50:11.582Z - info: [gme] Node version v10.16.3
+2019-11-24T19:50:11.583Z - info: [gme] Logfile [ info ] : C:\Work\StudentProjects\MIC-Logic-Gates\server.log
+2019-11-24T19:50:11.591Z - info: [gme] Logfile [ error ] : C:\Work\StudentProjects\MIC-Logic-Gates\server-error.log
+2019-11-24T19:50:11.711Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Work\StudentProjects\MIC-Logic-Gates\blob-local-storage
+2019-11-24T19:50:11.718Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://172.16.1.10:8888  http://127.0.0.1:8888  http://172.17.142.209:8888
+2019-11-24T19:50:11.725Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:50:11.763Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T19:50:12.132Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T20:00:14.032Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Work\StudentProjects\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Work\StudentProjects\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-24T20:00:59.113Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Work\StudentProjects\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Work\StudentProjects\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-24T20:02:55.098Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Work\StudentProjects\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Work\StudentProjects\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-24T20:09:56.388Z - info: [gme:server:standalone] Requesting server to stop ...
+2019-11-24T20:09:56.396Z - info: [gme:server:standalone] Server stopped.
+2019-11-24T22:40:54.815Z - info: [gme] Node version v12.13.1
+2019-11-24T22:40:54.822Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server.log
+2019-11-24T22:40:54.822Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server-error.log
+2019-11-24T22:40:55.124Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\blob-local-storage
+2019-11-24T22:40:55.145Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.1.74:8888  http://127.0.0.1:8888
+2019-11-24T22:40:55.149Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T22:40:55.205Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-24T22:40:56.220Z - info: [gme:server:standalone] Server is listening ...
+2019-11-24T22:41:26.460Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-24T23:16:53.491Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-24T23:17:00.436Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:10:11.459Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:10:26.401Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:11:09.211Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:11:17.546Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:11:50.087Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:14:00.524Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:14:13.933Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:14:16.965Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:14:41.284Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:14:49.368Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T02:16:47.575Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:17:22.132Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:18:11.281Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:18:54.252Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:18:59.266Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:24:07.762Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:30:38.756Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:30:50.178Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:30:57.306Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:31:09.971Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:33:07.695Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:34:49.683Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T03:41:23.598Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T04:01:36.498Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T04:01:59.055Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T16:56:00.464Z - info: [gme] Node version v12.13.1
+2019-11-25T16:56:00.466Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server.log
+2019-11-25T16:56:00.466Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server-error.log
+2019-11-25T16:56:00.679Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\blob-local-storage
+2019-11-25T16:56:00.687Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.2.5:8888  http://127.0.0.1:8888
+2019-11-25T16:56:00.688Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-25T16:56:00.753Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-25T16:56:01.395Z - info: [gme:server:standalone] Server is listening ...
+2019-11-25T16:56:08.512Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T16:56:35.452Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T16:57:35.049Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T16:57:56.171Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T16:58:13.479Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T16:58:48.588Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:00:28.885Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:00:37.866Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:04:56.983Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:16:41.769Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:16:53.019Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:17:11.155Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:17:25.590Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:17:38.288Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:18:30.308Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:18:58.410Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:19:12.098Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:19:27.896Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:20:02.380Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:30:12.787Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:30:35.579Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:30:57.134Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:31:03.166Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:31:26.638Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:31:33.327Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:31:41.677Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:31:54.592Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:32:33.028Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:32:54.575Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:35:11.522Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:35:48.478Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:42:00.848Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:42:16.924Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:42:44.702Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:43:13.079Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T17:44:29.973Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:32:38.196Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:33:01.682Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:34:27.787Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:35:01.244Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:35:33.752Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:40:03.733Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:41:55.577Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:44:37.661Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:45:12.188Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:49:10.451Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:53:26.750Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:54:17.410Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:54:47.038Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:55:54.730Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:56:31.658Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:58:39.405Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T19:58:48.134Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:06:36.570Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:07:02.454Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:07:35.648Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:14:57.259Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:15:31.726Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:16:11.820Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:16:40.625Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:17:55.078Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:27:38.720Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:31:43.277Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:33:02.337Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:33:40.504Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:35:00.157Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T20:36:48.409Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:16:40.217Z - info: [gme] Node version v12.13.1
+2019-11-25T21:16:40.218Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server.log
+2019-11-25T21:16:40.218Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server-error.log
+2019-11-25T21:16:40.467Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\blob-local-storage
+2019-11-25T21:16:40.480Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://10.0.1.65:8888  http://127.0.0.1:8888
+2019-11-25T21:16:40.481Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-25T21:16:40.525Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-25T21:16:41.193Z - info: [gme:server:standalone] Server is listening ...
+2019-11-25T21:19:21.802Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:19:39.303Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:19:56.302Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:20:10.734Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:20:41.516Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:20:48.676Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:22:24.762Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:22:44.343Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T21:22:56.288Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T23:40:56.141Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T23:41:15.864Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T23:44:49.766Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T23:45:37.826Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T23:46:06.225Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T23:52:31.029Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T23:53:01.854Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-25T23:53:49.501Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T00:35:42.595Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T00:36:54.286Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T00:37:11.923Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T00:37:23.752Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T00:49:19.523Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T01:25:05.187Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T01:26:35.818Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T01:29:32.404Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T01:42:29.891Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T01:50:22.154Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T01:50:23.558Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T02:16:53.029Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T02:17:54.868Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T02:33:52.331Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T02:38:35.128Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T03:48:15.631Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T03:48:48.733Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:39:52.143Z - info: [gme] Node version v12.13.1
+2019-11-26T15:39:52.144Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server.log
+2019-11-26T15:39:52.144Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server-error.log
+2019-11-26T15:39:52.397Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\blob-local-storage
+2019-11-26T15:39:52.410Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.2.5:8888  http://127.0.0.1:8888
+2019-11-26T15:39:52.412Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-26T15:39:52.472Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-26T15:39:53.371Z - info: [gme:server:standalone] Server is listening ...
+2019-11-26T15:39:54.910Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:40:23.326Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:40:50.687Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:41:20.301Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:42:40.103Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:45:49.616Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:46:23.406Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:46:53.861Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:47:13.427Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:51:30.654Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T15:52:35.615Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:03:35.608Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:26:56.134Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:30:57.001Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:31:26.807Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:32:08.043Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:32:43.720Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:32:57.207Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:37:35.844Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:37:50.995Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:39:19.254Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:40:40.237Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:43:57.167Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:45:12.126Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:45:22.071Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:45:30.975Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:45:49.014Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:49:23.914Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:50:05.083Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:50:33.982Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:51:17.268Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:52:04.632Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:53:03.774Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:58:29.648Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:58:59.739Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T16:59:17.184Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:01:00.125Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:02:38.097Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:16:48.332Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:17:20.056Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:17:32.152Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:17:52.590Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:18:07.588Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:18:49.938Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:19:48.578Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:28:50.386Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:32:10.883Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:33:13.118Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:36:07.974Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:36:40.496Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:36:57.691Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:40:50.312Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:41:39.449Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:42:03.487Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:42:48.449Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T17:42:57.115Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T18:58:30.342Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:00:08.185Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:00:23.039Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:15:14.098Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:15:39.596Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:18:32.382Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:18:51.698Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:25:28.384Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:31:17.700Z - error: [gme:server:standalone:middleware:BlobServer:BlobBackend] readStream on close
+2019-11-26T19:43:30.305Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:44:04.569Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:44:20.869Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:45:05.015Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:45:26.855Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:49:05.310Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:49:18.566Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:50:05.672Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:51:27.675Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:51:58.181Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:52:59.191Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T19:53:08.486Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:12:23.134Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:12:44.782Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:15:59.113Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:21:13.066Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:24:56.902Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:25:12.087Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:25:31.788Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:26:24.402Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:26:37.146Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:26:50.899Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:27:17.375Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:28:14.667Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:29:25.770Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:30:00.684Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:31:07.752Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:31:19.068Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:31:28.390Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:32:50.709Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:33:45.785Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:34:02.743Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:35:02.110Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:35:11.164Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:43:41.552Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:44:30.740Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:49:55.121Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:50:04.458Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:50:11.023Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:50:19.453Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:50:47.492Z - info: [gme] Node version v12.13.1
+2019-11-26T20:50:47.493Z - info: [gme] Logfile [ info ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server.log
+2019-11-26T20:50:47.494Z - info: [gme] Logfile [ error ] : C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\server-error.log
+2019-11-26T20:50:47.776Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\blob-local-storage
+2019-11-26T20:50:47.792Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://192.168.2.5:8888  http://127.0.0.1:8888
+2019-11-26T20:50:47.794Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-26T20:50:47.848Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/logicgates
+2019-11-26T20:50:48.778Z - info: [gme:server:standalone] Server is listening ...
+2019-11-26T20:59:12.825Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T20:59:26.035Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:00:57.805Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:01:07.568Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:01:34.096Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:01:51.097Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:02:58.582Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:05:00.792Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:05:51.094Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:12:39.856Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:23:22.367Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:23:46.890Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:24:19.892Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:26:48.497Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:27:06.619Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:27:34.810Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:28:17.987Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:29:02.354Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:29:14.195Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:31:53.918Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:32:31.552Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:32:45.077Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:34:33.100Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:35:13.482Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:38:51.442Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:39:00.734Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:39:17.291Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:40:42.855Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:43:14.130Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'
+2019-11-26T21:47:10.040Z - warn: [gme:server:standalone] expressFileSending failed for: C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css: Error: ENOENT: no such file or directory, stat 'C:\Users\Pooja Wagle\Desktop\MIC-Logic-Gates\node_modules\jointjs\dist\joint.css.css'

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "LogicGatesViz",
+    "title": "LogicGatesViz",
+    "panel": "panels/LogicGatesViz/LogicGatesVizPanel",
+    "DEBUG_ONLY": false
+  }
+]
